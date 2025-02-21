@@ -68,6 +68,11 @@ span {
   letter-spacing: .35em;
   vertical-align: top;
   padding-top: 10px;
+  .text-align {
+    text-align: left;
+    display: inline-block;
+    width: auto; 
+  }
 }
 
 img {
